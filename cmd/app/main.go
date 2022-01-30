@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/nstoker/stunning-waddle/internal/tutorials"
+)
 
 func main() {
 	fmt.Println("Hello, World!")
+	tutorials.HelloWorld()
 }
