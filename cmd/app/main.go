@@ -1,9 +1,7 @@
 package main
 
-import (
-	"github.com/nstoker/stunning-waddle/internal/tutorials"
-)
+import "github.com/nstoker/stunning-waddle/internal/tutorial_packaging"
 
 func main() {
-	tutorials.HelloPerson()
+	tutorial_packaging.HelloWorld()
 }

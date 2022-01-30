@@ -9,3 +9,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial project build.
 - add initial [dependabot.yml](dependabot.yml) file.
+- Added icon from [Simple Icon Generator](https://prefinem.com/simple-icon-generator/).
+- Various tutorial videos followed, currently at [Packaging for linux](https://youtu.be/zIV3Pv5QbeM?t=181).
