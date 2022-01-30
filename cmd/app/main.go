@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	tutorials.Clock()
+	tutorials.ManagingWindows()
 }
